@@ -32,7 +32,7 @@ Recommended OS version: Ubuntu 18.04 LTS.
           
    1. Prerequisites for GUI version:
 
-          sudo apt-get install -y build-essential g++ python-dev autotools-dev libicu-dev libbz2-dev cmake git screen mesa-common-dev libglu1-mesa-dev`
+          sudo apt-get install -y build-essential g++ python-dev autotools-dev libicu-dev libbz2-dev cmake git screen mesa-common-dev libglu1-mesa-dev
 
 2. Download and build Boost
 
